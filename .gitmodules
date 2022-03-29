@@ -1,9 +1,9 @@
-[submodule "core-contracts"]
-	path = core-contracts
-	url = https://github.com/ChestrNFT/royalty-vault.git
 [submodule "splits"]
 	path = splits
 	url = https://github.com/ChestrNFT/splits.git
 [submodule "royalty-vault"]
 	path = royalty-vault
 	url = https://github.com/ChestrNFT/royalty-vault.git
+[submodule "core-contracts"]
+	path = core-contracts
+	url = https://github.com/ChestrNFT/core-contracts.git
