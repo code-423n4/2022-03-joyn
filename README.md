@@ -35,7 +35,7 @@ A further breakdown of [contracts and their dependencies can be found here](http
 
 Here is high level [System Diagram](https://drive.google.com/file/d/1INWkGedjKihSWM6R0apomoUgiadujz4Y/view?usp=sharing)
 
-#### CoreCollection.sol (310 sloc)
+### CoreCollection.sol (310 sloc)
 
 ERC721 contract responsible for:
 
