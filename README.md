@@ -20,7 +20,7 @@ Our mission is to make the process of creative collaboration accessible to as ma
 
 Looking into the future we want to become a go-to platform for metaverse content creation, and to see a lot of cross-pollination and remixing among the projects built with Joyn.
 
-We fully embrace modularity and interoperability with our architecture. We have modules that extend the ERC721 & ERC1155 standards, which provide functionalities beyond minting and transferring token instances.
+We fully embrace modularity and interoperability with our architecture. We have modules that extend the ERC721 standards, which provide functionalities beyond minting and transferring token instances.
 
 Eg. NFT collections launched through Joyn out of the box allow project creators to split royalties among an arbitrary number of recipients, which means we could achieve shared royalties between everyone involved in the project.
 
