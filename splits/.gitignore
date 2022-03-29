@@ -1,0 +1,12 @@
+node_modules/
+outputs/
+Reports/
+coverage/
+cache/
+artifacts/
+build/
+ts-types/
+.env
+*.DS_Store
+.vscode
+package-lock.json
