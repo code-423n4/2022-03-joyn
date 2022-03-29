@@ -4,3 +4,6 @@
 [submodule "splits"]
 	path = splits
 	url = https://github.com/ChestrNFT/splits.git
+[submodule "core-s-contracts"]
+	path = core-s-contracts
+	url = https://github.com/ChestrNFT/core-contracts.git
