@@ -10,7 +10,7 @@
 
 # Contest Scope
 
-This contest is open for three days.Representatives from Joyn will be available in the Code Arena Discord to answer any questions during the contest period. The focus for the contest is to try and find any logic errors or ways to drain fungible or non-fungible assets from the protocol in a way that is advantageous for an attacker at the expense of users with funds in the protocol.
+This contest is open for three days. Representatives from Joyn will be available in the Code Arena Discord to answer any questions during the contest period. The focus for the contest is to try and find any logic errors or ways to drain fungible or non-fungible assets from the protocol in a way that is advantageous for an attacker at the expense of users with funds in the protocol.
 
 ## Protocol overview
 
